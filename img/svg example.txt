@@ -1,0 +1,8 @@
+<svg height="160" width="160" >  
+<defs>
+<pattern id="im" patternUnits="userSpaceOnUse" viewBox="0,0,160,160"  width="160" height="160">
+<image xlink:href="img\square.jpg" x="0" y="0" width="160" height="160"/>
+</pattern>
+</defs>
+<polygon fill="url(#im)" stroke="green" stroke-width="3" points="80,5 ,5,80  ,35,155 ,125,155 ,155,80/>
+</svg>
